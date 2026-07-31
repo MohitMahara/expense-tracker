@@ -1,8 +1,8 @@
-# Smart Expense Tracker API
+# Expense Tracker API
 
 ## Project Overview
 
-Smart Expense Tracker API is a RESTful backend application built to manage personal expenses. It allows users to add, retrieve, filter, calculate, and delete expenses while using an in-memory JavaScript Map as the storage mechanism, as permitted by the assignment.
+Expense Tracker API is a RESTful backend application built to manage personal expenses. It allows users to add, retrieve, filter, calculate, and delete expenses while using an in-memory JavaScript Map as the storage mechanism, as permitted by the assignment.
 
 This project was developed as part of Diligent's Engineering Apprenticeship 2026 take-home assignment. While the required functionality is relatively straightforward, the primary focus of the implementation was on writing clean, maintainable, and well-structured code by following a layered architecture with proper validation, centralized error handling, comprehensive API testing, and interactive OpenAPI/Swagger documentation.
 
@@ -28,7 +28,7 @@ This project was developed as part of Diligent's Engineering Apprenticeship 2026
 ## Project Structure
 
 ```text
-project/
+Expense Tracker/
 |
 +-- src/
 |   +-- config/
